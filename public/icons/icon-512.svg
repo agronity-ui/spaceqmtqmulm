@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="116" fill="#09090b"/>
+  <circle cx="256" cy="256" r="178" fill="#064e3b" opacity=".72"/>
+  <path d="M328 142c-40 10-76 44-76 96 0 63 51 113 114 113 13 0 27-2 39-7-31 37-77 61-129 61-92 0-167-75-167-167 0-72 46-134 110-157-8 14-13 31-13 48 0 52 42 94 94 94 18 0 34-5 48-13-4-23-10-45-20-68z" fill="#10b981"/>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="900" fill="#d1fae5">SpaceQ</text>
+</svg>
